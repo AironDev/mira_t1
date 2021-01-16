@@ -4,10 +4,8 @@
 	<title></title>
 	<!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
     <style type="text/css">
     	html {
 		  height: 100vh;
@@ -52,7 +50,6 @@
 	      </div>
 	    </nav>
 	</header>
-
 	<main class="container login-body">
 	    <div class="row">
 	      <div class="col s0 m3"></div>
@@ -65,7 +62,6 @@
 		            <p>Login to your account</p>
 		          </div>
 		        </div>
-
 		        <form id="login-form" style="padding:30px;" class="card-panel">
 		          <div class="row">
 		            <div class="input-field col s12">
@@ -87,7 +83,6 @@
 		            <br>
 		          </div>
 		        </form>
-
 		        <div class="col s12 center-align">
 		          <a class="center indigo-text text-darken-4" href="forgot.html">Forgot Password</a>
 		        </div>
